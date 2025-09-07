@@ -1,6 +1,7 @@
-# 🏎️ F1 25 Telemetry Dashboard
+# F1 25 Telemetry Dashboard 🏎️📊
 
 <div align="center">
+
 
 ![F1 Telemetry](https://img.shields.io/badge/F1_25-Telemetry-red?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -10,9 +11,10 @@
 
 **Real-time telemetry dashboard for F1 25 (EA Sports) with full grid monitoring**
 
+<img src="./public/banner.png" alt="Dashboard Preview" width="100%" />
+
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation) • [Contributing](#-contributing)
 
-<img src="./public/banner.png" alt="Dashboard Preview" width="100%" />
 
 </div>
 
