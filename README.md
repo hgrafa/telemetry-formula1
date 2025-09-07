@@ -12,7 +12,7 @@
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation) • [Contributing](#-contributing)
 
-<img src="https://via.placeholder.com/800x400/1a1a1a/ffffff?text=F1+25+Telemetry+Dashboard" alt="Dashboard Preview" width="100%" />
+<img src="./public/banner.png" alt="Dashboard Preview" width="100%" />
 
 </div>
 
